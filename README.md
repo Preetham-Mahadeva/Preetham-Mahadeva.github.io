@@ -2,12 +2,14 @@
 
 # Preetham Raj Mahadeva  
 
+</p>
+
 [![Email](https://img.shields.io/badge/Email-preethamrajmahadeva%40gmail.com-red?logo=gmail&logoColor=white)](mailto:preethamrajmahadeva@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-preethammahadeva-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preethammahadeva)
 [![Location](https://img.shields.io/badge/Location-Guelph%2C%20Ontario-green?logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Guelph,+Ontario)
 [![Phone](https://img.shields.io/badge/Phone-%2B1--548--398--2550-lightgrey?logo=whatsapp&logoColor=white)](tel:+15483982550)
 
-</p>
+
 
 ---
 
